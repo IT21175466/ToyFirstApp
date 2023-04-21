@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ToyFirst/app/src/main/res/drawable/ic_add_to_cart.xml" value="0.202" />
+        <entry key="..\:/ToyFirst/app/src/main/res/drawable/ic_launcher_background.xml" value="0.211" />
+        <entry key="..\:/ToyFirst/app/src/main/res/layout/activity_add_new_toy.xml" value="0.2359375" />
+        <entry key="..\:/ToyFirst/app/src/main/res/layout/activity_admin_login.xml" value="0.16216216216216217" />
+        <entry key="..\:/ToyFirst/app/src/main/res/layout/activity_admin_order.xml" value="0.16216216216216217" />
+        <entry key="..\:/ToyFirst/app/src/main/res/layout/activity_admin_panel.xml" value="0.176" />
+        <entry key="..\:/ToyFirst/app/src/main/res/layout/activity_edit_toy_admin.xml" value="0.2359375" />
+        <entry key="..\:/ToyFirst/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/ToyFirst/app/src/main/res/layout/activity_shopping_cart.xml" value="0.16216216216216217" />
+        <entry key="..\:/ToyFirst/app/src/main/res/layout/activity_user_login.xml" value="0.16216216216216217" />
+        <entry key="..\:/ToyFirst/app/src/main/res/layout/activity_user_profile.xml" value="0.2" />
+        <entry key="..\:/ToyFirst/app/src/main/res/layout/activity_user_registration.xml" value="0.16216216216216217" />
+        <entry key="..\:/ToyFirst/app/src/main/res/layout/single_cart_item.xml" value="0.16216216216216217" />
+        <entry key="..\:/ToyFirst/app/src/main/res/layout/single_category.xml" value="0.2" />
+        <entry key="..\:/ToyFirst/app/src/main/res/layout/single_item_to_user.xml" value="0.16216216216216217" />
+        <entry key="..\:/ToyFirst/app/src/main/res/layout/singleitem.xml" value="0.176" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
